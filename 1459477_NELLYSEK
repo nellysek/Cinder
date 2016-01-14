@@ -1,0 +1,17 @@
+{
+  "Launchpad": "https://bugs.launchpad.net/bugs/1459477",
+  "Id": "1459477",
+  "Gerrit": "https://review.openstack.org/130923",
+  "Files": [
+    "cinder/volume/drivers/emc/emc_vmax_common.py",
+    "cinder/volume/drivers/emc/emc_vmax_utils.py"
+  ],
+  "Lines_Inseted": 39,
+  "Lines_Deleted": 4,
+  "CommitParent": "8707458a98bd1e4059939325659a7290757d972f",
+  "Classification": "Bug",
+  "KeywordsTitle": "fails, unable to locate",
+  "Description": "different failure",
+  "KeywordsCommit": ".",
+  "Comments": "logic error"
+}
